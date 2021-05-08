@@ -7,5 +7,6 @@ Install dependencies with
 
 Run the command
 >npm run dev
+
 to run the front-end and back-end locally simultaneously.
 
