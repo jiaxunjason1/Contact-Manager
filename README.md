@@ -2,6 +2,7 @@
 Full-stack MERN app for managing contacts
 Install dependencies with
 >npm install
+
 >npm run clientinstall
 
 Run the command
